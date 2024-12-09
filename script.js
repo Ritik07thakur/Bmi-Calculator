@@ -9,5 +9,5 @@ function bmi() {
   var total = bmi.toFixed(2);
   
   // Display result
-  document.getElementById("result").innerHTML = "Your BMI is " + total;
+  document.getElementById("result").innerHTML = "Your BMI is : " + total;
 }
